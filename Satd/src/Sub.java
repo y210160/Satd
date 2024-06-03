@@ -1,6 +1,6 @@
 
 public class Sub{
-	static int get(){
+	public int get(){
 		return 1;
 	}
 }
